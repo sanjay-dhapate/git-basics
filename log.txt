@@ -1,3 +1,2 @@
 log
 log2
-log3
